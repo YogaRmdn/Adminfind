@@ -9,4 +9,4 @@ python adminfind.py
 ```
 
 ## Screenshot Tools
-
+![Adminfind](ss.png)
